@@ -1,0 +1,24 @@
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.vcxproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.AboutForm.resources
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.CreateUser.resources
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.DeleteUser.resources
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.EditUser.resources
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.vcxproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\kursrob\kursrob\x64\Debug\kursrob.MyForm.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.vcxproj.AssemblyReference.cache
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.vcxproj.SuggestedBindingRedirects.cache
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.AboutForm.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.CreateUser.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.DeleteUser.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.EditUser.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.MyForm.resources
+D:\IMPORTANT SUKA BLYAD\kursrob\kursrob\x64\Debug\kursrob.vcxproj.GenerateResource.cache
+D:\kursrob\kursrob\x64\Debug\kursrob.vcxproj.AssemblyReference.cache
+D:\kursrob\kursrob\x64\Debug\kursrob.vcxproj.SuggestedBindingRedirects.cache
+D:\kursrob\kursrob\x64\Debug\kursrob.AboutForm.resources
+D:\kursrob\kursrob\x64\Debug\kursrob.CreateUser.resources
+D:\kursrob\kursrob\x64\Debug\kursrob.DeleteUser.resources
+D:\kursrob\kursrob\x64\Debug\kursrob.EditUser.resources
+D:\kursrob\kursrob\x64\Debug\kursrob.MyForm.resources
+D:\kursrob\kursrob\x64\Debug\kursrob.vcxproj.GenerateResource.cache
